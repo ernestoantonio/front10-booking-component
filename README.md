@@ -1,2 +1,13 @@
-# front10-booking-component
-A exercise creating a Booking Component with React + Bootstrap
+Intall with npm install
+
+Nota: Para consultar datos usar fechas del mes de diciembre
+
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
